@@ -1,0 +1,20 @@
+﻿  main.cpp
+E:\project for c++\C++\Employee Manager System\register.h(42,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\project for c++\C++\Employee Manager System\Employee.h(42,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\project for c++\C++\Employee Manager System\Employee.h(65,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\project for c++\C++\Employee Manager System\Employee.h(122,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\project for c++\C++\Employee Manager System\Employee.h(179,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\project for c++\C++\Employee Manager System\Employee.h(180,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  Employee Manager System.vcxproj -> E:\project for c++\C++\Employee Manager System\x64\Debug\Employee Manager System.exe
